@@ -1,12 +1,56 @@
-- 👋 Hi, I’m @rabia758 and  i m student of governour sindh inititiave program
-- 👀 I’m interested in PROGRAMMING,and become a good programmer and developer...
-- 🌱 I’m currently learning typescript,metaverse and web 3.0 ...
-- 💞️ I’m looking to collaborate on a best platform where i am using my skills ...
-- 📫 How to reach me y.ou can follow me here also amd here is m linkedin link
-- https://www.linkedin.com/in/rabia-rizwan-5bb82a301/ ...
-- ⚡ Fun fact:diffrent types of coding,painting ...
+# 👋 Hi, I'm Rabia Rizwan
 
-<!---
-rabia758/rabia758 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Web Developer | Python & JavaScript Expert | AI/ML Enthusiast  
+**🎓 Senior Student – Governor Sindh IT Initiative**  
+**📚 B.Com – Business Administration & Management (Karachi University, 2014–2018)**  
+
+---
+
+### 💫 About Me
+
+I’m a passionate web developer and emerging AI/ML enthusiast with a strong foundation in Python, JavaScript, and machine learning. As a senior student under the Governor Sindh IT program, I’ve been actively learning and applying cutting-edge technologies like Artificial Intelligence, Web 3.0, and the Metaverse.
+
+In addition to my technical background, I bring valuable experience as an **Assistant Sales Manager** at Kumroh Trading LLC, where I developed strong communication and client relationship skills.
+
+---
+
+### 🚀 What I Do
+
+- 🌐 Develop full-stack web applications using **Python**, **JavaScript**, and modern frameworks  
+- 🤖 Explore **Machine Learning** and AI-based applications  
+- 💬 Provide excellent **Customer Support** and manage **Sales Operations**  
+- 🌍 Learn and contribute to future technologies like **Web3.0** and the **Metaverse**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks & Tools:** Flask, Streamlit, Bootstrap, Git, GitHub  
+**AI/ML:** Scikit-learn, pandas, NumPy (Learning phase)  
+**Others:** Sales CRM, Customer Support Platforms
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [rizwanrabia758@gmail.com](mailto:rizwanrabia758@gmail.com)  
+- 💼 LinkedIn: [Rabia Rizwan](https://www.linkedin.com/in/rabia-rizwan/)  
+- 🌐 Portfolio: *Coming Soon*
+
+---
+
+### 📌 Pinned Repositories
+
+> *Add your project repos here once you push them to GitHub, such as a portfolio website, AI mini projects, or web apps.*
+
+---
+
+### 📈 GitHub Stats
+
+![Rabia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+---
+
+> *Let’s build the future together with code, creativity, and curiosity.*
+
