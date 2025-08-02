@@ -36,7 +36,7 @@ In addition to my technical background, I bring valuable experience as an **Assi
 
 - 📧 Email: [rizwanrabia758@gmail.com](mailto:rizwanrabia758@gmail.com)  
 - 💼 LinkedIn: [Rabia Rizwan](https://www.linkedin.com/in/rabia-rizwan/)  
-- 🌐 Portfolio: *Coming Soon*
+- 🌐 Portfolio: [Rabia Rizwan](https://www.rabiarizwan.netlify.app/)  
 
 ---
 
